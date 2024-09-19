@@ -1,6 +1,6 @@
 # SUSTech NINJA Group
 
-NINJA (an acronym for "NINJA Is Not a Java2 group") is a group for semester project of the course `CS309 Object-Oriented Analysis and Design` at [SUSTech](https://www.sustech.edu.cn).
+NINJA (an acronym for "**N**INJA **I**s **N**ot a **Ja**va2 group") is a group for semester project of the course `CS309 Object-Oriented Analysis and Design` at [SUSTech](https://www.sustech.edu.cn).
 
 ## Members
 
